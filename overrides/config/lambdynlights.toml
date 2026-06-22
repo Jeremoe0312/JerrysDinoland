@@ -1,0 +1,480 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+# The chunk rebuild scheduler mode (immediate, culling).
+chunk_rebuild_scheduler = "culling"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enables dynamic lighting of beacon or end gateway beams.
+	beam = true
+	# Enables dynamic lighting of firefly particles from Firefly Bushes.
+	firefly = true
+	# Enables dynamic lighting for entities that have the Glowing effect.
+	glowing_effect = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Enables dynamic lighting of the Warden's sonic boom attack particles.
+	sonic_boom = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# Enables dynamic lighting of Guardian's lasers. This also can be toggled off by disabling Guardian dynamic lighting.
+	guardian_laser = true
+
+			[light_sources.settings.entities.minecraft]
+				zombie_horse = true
+				axolotl = true
+				egg = true
+				zoglin = true
+				spawner_minecart = true
+				allay = true
+				llama = true
+				mule = true
+				bat = true
+				husk = true
+				camel = true
+				experience_bottle = true
+				rabbit = true
+				firework_rocket = true
+				silverfish = true
+				giant = true
+				drowned = true
+				item = true
+				goat = true
+				horse = true
+				vindicator = true
+				minecart = true
+				spectral_arrow = true
+				llama_spit = true
+				mooshroom = true
+				glow_item_frame = false
+				tnt = true
+				snowball = true
+				parrot = true
+				creeper = true
+				lightning_bolt = true
+				tadpole = true
+				ravager = true
+				evoker_fangs = true
+				chest_minecart = true
+				tropical_fish = true
+				slime = true
+				pillager = true
+				area_effect_cloud = true
+				blaze = true
+				piglin = true
+				end_crystal = true
+				endermite = true
+				zombie = true
+				ender_pearl = true
+				item_display = true
+				breeze_wind_charge = true
+				guardian = true
+				fireball = true
+				illusioner = true
+				eye_of_ender = true
+				wither_skull = true
+				wolf = true
+				block_display = true
+				tnt_minecart = true
+				zombie_villager = true
+				elder_guardian = true
+				chest_boat = true
+				boat = true
+				small_fireball = true
+				strider = true
+				cave_spider = true
+				cod = true
+				snow_golem = true
+				witch = true
+				spider = true
+				command_block_minecart = true
+				panda = true
+				bee = true
+				arrow = true
+				cow = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				frog = true
+				hoglin = true
+				armadillo = true
+				armor_stand = true
+				experience_orb = true
+				dolphin = true
+				stray = true
+				shulker = true
+				turtle = true
+				salmon = true
+				vex = true
+				wandering_trader = true
+				wither_skeleton = true
+				piglin_brute = true
+				breeze = true
+				ocelot = true
+				furnace_minecart = true
+				item_frame = true
+				phantom = true
+				ender_dragon = true
+				leash_knot = true
+				evoker = true
+				marker = true
+				glow_squid = true
+				warden = true
+				squid = true
+				shulker_bullet = true
+				enderman = true
+				dragon_fireball = true
+				chicken = true
+				sniffer = true
+				trader_llama = true
+				donkey = true
+				bogged = true
+				fox = true
+				iron_golem = true
+				zombified_piglin = true
+				cat = true
+				wind_charge = true
+				ghast = true
+				sheep = true
+				player = true
+				pufferfish = true
+				potion = true
+				trident = true
+				villager = true
+				ominous_item_spawner = true
+				skeleton_horse = true
+				fishing_bobber = true
+				text_display = true
+				polar_bear = true
+				hopper_minecart = true
+				falling_block = true
+				painting = true
+				interaction = true
+				wither = true
+
+			[light_sources.settings.entities.reliquified_artifacts]
+				spark = true
+				whoopee_cloud = true
+
+			[light_sources.settings.entities.regions_unexplored]
+				ashen = true
+				chest_boat = true
+				boat = true
+
+			[light_sources.settings.entities.simulated]
+				launched_plunger = true
+				honey_glue = true
+				contraption_diagram = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.sophisticatedbackpacks]
+				everlasting_backpack_item = true
+
+			[light_sources.settings.entities.createdieselgenerators]
+				chemical_sprayer_projectile = true
+
+			[light_sources.settings.entities.relics]
+				shockwave_block = true
+				glitchy_illusion = true
+				death_essence = true
+				electric_spark = true
+				golden_tooth = true
+				kinetic_electricity = true
+				life_essence = true
+				constellation_star = true
+				thrown_relic_experience_bottle = true
+				leaves_block = true
+				roller_spark = true
+				falling_star = true
+				reflective_orb = true
+				spore = true
+				self_sacrifice_projectile = true
+				shadow_glaive = true
+				ghostly_fog = true
+				relic_experience_orb = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+				item_frame = true
+
+			[light_sources.settings.entities.fossilslegacy]
+				pregnant_donkey = true
+				egg = true
+				pregnant_goat = true
+				tamed_zombified_piglin = true
+				pregnant_panada = true
+				thrown_incubated_egg = true
+				tyrannosaurus = true
+				pregnant_mammoth = true
+				ancient_lightning_bolt = true
+				cryolophosaurus = true
+				thrown_javelin = true
+				compsognathus = true
+				mosasaurus = true
+				pregnant_polar_bear = true
+				triceratops = true
+				pregnant_llama = true
+				pregnant_cat = true
+				dilophosaurus_venom = true
+				pregnant_dolphin = true
+				failuresaurus = true
+				nautilus = true
+				fossil = true
+				mammoth = true
+				pregnant_ocelot = true
+				pregnant_smilodon = true
+				velociraptor = true
+				pregnant_wolf = true
+				gallimimus = true
+				pregnant_fox = true
+				spinosaurus = true
+				brachiosaurus = true
+				pregnant_rabbit = true
+				dilophosaurus = true
+				pachycephalosaurus = true
+				pregnant_sheep = true
+				ankylosaurus = true
+				pteranodon = true
+				anu = true
+				pregnant_armadillo = true
+				stone_tablet = true
+				dimetrodon = true
+				pregnant_horse = true
+				carnotaurus = true
+				stegosaurus = true
+				smilodon = true
+				therizinosaurus = true
+				pregnant_pig = true
+				dodo = true
+				futabasaurus = true
+				pregnant_cow = true
+				moa = true
+				pregnant_mule = true
+
+			[light_sources.settings.entities.ae2]
+				tiny_tnt_primed = true
+
+			[light_sources.settings.entities.refurbished_furniture]
+				seat = true
+
+			[light_sources.settings.entities.jurassicreborn]
+				livyatan = true
+				sorna_jeep_wrangler = true
+				ankylodocus = true
+				achillobator = true
+				velociraptorcharlie = true
+				proceratosaurus = true
+				tyrannosaurus = true
+				guanlong = true
+				perisphinctes = true
+				park_bench_seat_left = true
+				mawsonia = true
+				diplocaulus = true
+				velociraptorecho = true
+				attraction_sign = true
+				compsognathus = true
+				dreadnoughtus = true
+				hyaenodon = true
+				parasaurolophus = true
+				carcharodontosaurus = true
+				orthoceras = true
+				titanis = true
+				goat = true
+				tylosaurus = true
+				segisaurus = true
+				sinoceratops = true
+				leptictidium = true
+				purple_jeep_wrangler = true
+				brachiosaurus = true
+				calymene = true
+				park_bench_seat_right = true
+				velociraptordelta = true
+				parapuzosia = true
+				velociraptorblue = true
+				deinotherium = true
+				monorail = true
+				titanites = true
+				helicopter = true
+				nigersaurus = true
+				ornithomimus = true
+				dimorphodon = true
+				pteranodon = true
+				indominus = true
+				chilesaurus = true
+				shark = true
+				indoraptor = true
+				coelacanth = true
+				paddock_sign = true
+				corythosaurus = true
+				herrerasaurus = true
+				ford_explorer = true
+				carnotaurus = true
+				chasmosaurus = true
+				stegosaurus = true
+				smilodon = true
+				camarasaurus = true
+				therizinosaurus = true
+				blue_jeep_wrangler = true
+				crassigyrinus = true
+				majungasaurus = true
+				dodo = true
+				giganotosaurus = true
+				microraptor = true
+				quetzal = true
+				ford_explorer_snow = true
+				moganopterus = true
+				oviraptor = true
+				cearadactylus = true
+				rugops = true
+				leaellynasaura = true
+				megatherium = true
+				troodon = true
+				mussaurus = true
+				patagotitan = true
+				zhenyuanopterus = true
+				alligatorgar = true
+				mosasaurus = true
+				paraceratherium = true
+				tranquilizer_dart = true
+				jeep_wrangler = true
+				triceratops = true
+				vectipelta = true
+				arsinoitherium = true
+				tracking_dart = true
+				ceratosaurus = true
+				jurassic_boat = true
+				dunkleosteus = true
+				gyrosphere = true
+				mammoth = true
+				beelzebufo = true
+				endoceras = true
+				pink_jeep_wrangler = true
+				velociraptor = true
+				gallimimus = true
+				spinosaurus = true
+				elasmotherium = true
+				lambeosaurus = true
+				protoceratops = true
+				mamenchisaurus = true
+				megapiranha = true
+				maiasaura = true
+				apatosaurus = true
+				tropeognathus = true
+				edmontosaurus = true
+				diplodocus = true
+				black_jeep_wrangler = true
+				dilophosaurus = true
+				baryonyx = true
+				pachycephalosaurus = true
+				styracosaurus = true
+				microceratus = true
+				ankylosaurus = true
+				spinoraptor = true
+				suchomimus = true
+				bullet = true
+				dinosaur_egg = true
+				jurassic_chest_boat = true
+				venom_entity = true
+				ludodactylus = true
+				coelurus = true
+				raphusrex = true
+				allosaurus = true
+				postosuchus = true
+				mural_painting = true
+				lime_jeep_wrangler = true
+				megalodon = true
+				hypsilophodon = true
+				dimetrodon = true
+				green_jeep_wrangler = true
+				blueprint_painting = true
+				alvarezsaurus = true
+				asteroceras = true
+				metriacanthosaurus = true
+				othnielia = true
+				deinosuchus = true
+				cameroceras = true
+				crab = true
+				kairuku = true
+
+			[light_sources.settings.entities.aeronautics]
+				propeller_bearing_contraption = true
+				gust = true
+
+			[light_sources.settings.entities.simplelibrary]
+				simple_boat = true
+				simple_chest_boat = true
+
+			[light_sources.settings.entities.interiors]
+				big_seat = true
+
+			[light_sources.settings.entities.supplementaries]
+				dispenser_minecart = true
+				slingshot_projectile = true
+				brick_projectile = true
+				plunderer = true
+				falling_sack = true
+				pearl_marker = true
+				hat_stand = true
+				bomb = true
+				falling_ash = true
+				cannonball = true
+				falling_urn = true
+				red_merchant = true
+				cannon_boat = true
+				rope_arrow = true
+				slimeball_projectile = true
+
+			[light_sources.settings.entities.create]
+				carriage_contraption = true
+				seat = true
+				stationary_contraption = true
+				package = true
+				contraption = true
+				gantry_contraption = true
+				super_glue = true
+				crafting_blueprint = true
+				potato_projectile = true
+
+			[light_sources.settings.entities.offroad]
+				borehead_contraption_entity = true
+
+			[light_sources.settings.entities.create_sa]
+				drill_module = true
+				vault_module = true
+				flamethrower_pr = true
+				brass_cube_r = true
+				fan_module = true
+				lifted_block = true
+				flamethrower_pr_2 = true
+				magnet_module = true
+				brass_drone = true
+
+			[light_sources.settings.entities.yungscavebiomes]
+				sand_snapper = true
+				icicle = true
+				ice_cube = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+[debug]
+	active_dynamic_lighting_cells = false
+	display_dynamic_lighting_chunk_rebuild = false
+	display_behavior_bounding_box = false
+
+[adaptive_ticking]
+	# Reduces how often sources behind the camera get ticked.
+	background_sleep = true
+	# How far away (in chunks) until light sources get ticked less often.
+	slow = 5
+	# How far away (in chunks) until light sources get ticked even less often.
+	slower = 8

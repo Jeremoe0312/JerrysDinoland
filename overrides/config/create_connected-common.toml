@@ -9,14 +9,19 @@ migrateCopycatsOnInitialize = true
 #Enable/disable features. Values on server override clients
 [features]
 	#.
+	kinetic_bridge = true
 	fluid_vessel = true
+	cross_connector = true
 	item_silo = true
 	inverted_clutch = true
 	empty_fan_catalyst = true
 	parallel_gearbox = true
+	redstone_link_wildcard = true
+	kinetic_battery = true
 	inventory_access_port = true
 	centrifugal_clutch = true
 	copycat_slab = true
+	brass_chute = true
 	overstress_clutch = true
 	brake = true
 	copycat_block = true
@@ -31,6 +36,7 @@ migrateCopycatsOnInitialize = true
 	encased_chain_cogwheel = true
 	sequenced_pulse_generator = true
 	freewheel_clutch = true
+	dashboard = true
 	shear_pin = true
 	inverted_gearshift = true
 	linked_transmitter = true
@@ -42,6 +48,7 @@ migrateCopycatsOnInitialize = true
 #.
 #Enable/disable categories of features. Disabling a category hides all related features. Values on server override clients
 [feature_categories]
+	#.
 	#.
 	#All kinetic components, such as gearboxes and crank wheels
 	kinetic = true
@@ -57,4 +64,3 @@ migrateCopycatsOnInitialize = true
 	#.
 	#All building palette blocks
 	palette = true
-
