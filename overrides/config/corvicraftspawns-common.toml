@@ -1,0 +1,10 @@
+
+["General Settings"]
+	#Prints additional debug information to the log.
+	#In most cases this information isn't necessary and excessive debugging can generate lag.
+	#However, if you are troubleshooting or reporting an issue, advanced log info may be helpful to turn on.
+	advanced_debugging = false
+	#Whether or not to override vanilla spawn entries with CorviCraft ones.
+	#If disabled, vanilla spawns will not be altered.  If enabled, CorviCraft values can be used to alter vanilla ones (the default sets apply the same values as vanilla).
+	override_vanilla = false
+

@@ -1,0 +1,247 @@
+[
+  {
+    "biomes": [
+      "minecraft:end_barrens",
+      "minecraft:end_midlands",
+      "minecraft:end_highlands",
+      "minecraft:small_end_islands",
+      "minecraft:the_end"
+    ],
+    "spawn_set": "the_end"
+  },
+  {
+    "biomes": [
+      "minecraft:old_growth_pine_taiga"
+    ],
+    "spawn_set": "old_growth_pine_taiga"
+  },
+  {
+    "biomes": [
+      "minecraft:sparse_jungle"
+    ],
+    "spawn_set": "sparse_jungle"
+  },
+  {
+    "biomes": [
+      "minecraft:swamp"
+    ],
+    "spawn_set": "swamp"
+  },
+  {
+    "biomes": [
+      "minecraft:jungle"
+    ],
+    "spawn_set": "jungle"
+  },
+  {
+    "biomes": [
+      "minecraft:meadow"
+    ],
+    "spawn_set": "meadow"
+  },
+  {
+    "biomes": [
+      "minecraft:frozen_ocean",
+      "minecraft:deep_frozen_ocean"
+    ],
+    "spawn_set": "frozen_ocean"
+  },
+  {
+    "biomes": [
+      "minecraft:ice_spikes",
+      "minecraft:snowy_plains"
+    ],
+    "spawn_set": "cold_plains"
+  },
+  {
+    "biomes": [
+      "minecraft:bamboo_jungle"
+    ],
+    "spawn_set": "bamboo_jungle"
+  },
+  {
+    "biomes": [
+      "minecraft:plains",
+      "minecraft:sunflower_plains"
+    ],
+    "spawn_set": "plains"
+  },
+  {
+    "biomes": [
+      "minecraft:savanna",
+      "minecraft:windswept_savanna"
+    ],
+    "spawn_set": "savanna"
+  },
+  {
+    "biomes": [
+      "minecraft:desert"
+    ],
+    "spawn_set": "desert"
+  },
+  {
+    "biomes": [
+      "minecraft:lush_caves"
+    ],
+    "spawn_set": "lush_caves"
+  },
+  {
+    "biomes": [
+      "minecraft:crimson_forest"
+    ],
+    "spawn_set": "crimson_forest"
+  },
+  {
+    "biomes": [
+      "minecraft:grove",
+      "minecraft:old_growth_spruce_taiga",
+      "minecraft:snowy_taiga",
+      "minecraft:taiga"
+    ],
+    "spawn_set": "taiga"
+  },
+  {
+    "biomes": [
+      "minecraft:warped_forest"
+    ],
+    "spawn_set": "warped_forest"
+  },
+  {
+    "biomes": [
+      "minecraft:flower_forest"
+    ],
+    "spawn_set": "flower_forest"
+  },
+  {
+    "biomes": [
+      "minecraft:birch_forest",
+      "minecraft:dark_forest",
+      "minecraft:old_growth_birch_forest"
+    ],
+    "spawn_set": "birch_and_dark_forest"
+  },
+  {
+    "biomes": [
+      "minecraft:cold_ocean",
+      "minecraft:deep_cold_ocean"
+    ],
+    "spawn_set": "cold_ocean"
+  },
+  {
+    "biomes": [
+      "minecraft:savanna_plateau"
+    ],
+    "spawn_set": "savanna_plateau"
+  },
+  {
+    "biomes": [
+      "minecraft:soul_sand_valley"
+    ],
+    "spawn_set": "soul_sand_valley"
+  },
+  {
+    "biomes": [
+      "minecraft:mushroom_fields"
+    ],
+    "spawn_set": "mushroom_fields"
+  },
+  {
+    "biomes": [
+      "minecraft:windswept_forest",
+      "minecraft:windswept_gravelly_hills",
+      "minecraft:windswept_hills"
+    ],
+    "spawn_set": "windswept"
+  },
+  {
+    "biomes": [
+      "minecraft:forest"
+    ],
+    "spawn_set": "forest"
+  },
+  {
+    "biomes": [
+      "minecraft:warm_ocean"
+    ],
+    "spawn_set": "warm_ocean"
+  },
+  {
+    "biomes": [
+      "minecraft:badlands",
+      "minecraft:eroded_badlands",
+      "minecraft:snowy_beach",
+      "minecraft:stony_peaks",
+      "minecraft:stony_shore",
+      "minecraft:wooded_badlands"
+    ],
+    "spawn_set": "dark_only"
+  },
+  {
+    "biomes": [
+      "minecraft:beach"
+    ],
+    "spawn_set": "beach"
+  },
+  {
+    "biomes": [
+      "minecraft:dripstone_caves"
+    ],
+    "spawn_set": "dripstone_caves"
+  },
+  {
+    "biomes": [
+      "minecraft:basalt_deltas"
+    ],
+    "spawn_set": "basalt_deltas"
+  },
+  {
+    "biomes": [
+      "minecraft:lukewarm_ocean"
+    ],
+    "spawn_set": "lukewarm_ocean"
+  },
+  {
+    "biomes": [
+      "minecraft:river"
+    ],
+    "spawn_set": "river"
+  },
+  {
+    "biomes": [
+      "minecraft:nether_wastes"
+    ],
+    "spawn_set": "nether_wastes"
+  },
+  {
+    "biomes": [
+      "minecraft:deep_ocean",
+      "minecraft:ocean"
+    ],
+    "spawn_set": "ocean"
+  },
+  {
+    "biomes": [
+      "minecraft:snowy_slopes"
+    ],
+    "spawn_set": "snowy_slopes"
+  },
+  {
+    "biomes": [
+      "minecraft:deep_lukewarm_ocean"
+    ],
+    "spawn_set": "deep_lukewarm_ocean"
+  },
+  {
+    "biomes": [
+      "minecraft:frozen_river"
+    ],
+    "spawn_set": "frozen_river"
+  },
+  {
+    "biomes": [
+      "minecraft:frozen_peaks",
+      "minecraft:jagged_peaks"
+    ],
+    "spawn_set": "peaks"
+  }
+]

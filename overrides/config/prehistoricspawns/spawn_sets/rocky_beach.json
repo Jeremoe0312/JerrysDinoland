@@ -1,0 +1,32 @@
+{
+  "replace_existing": false,
+  "spawns": [
+    {
+      "entity_type": "fossil:dimorphodon",
+      "weight": 4,
+      "pack_min": 1,
+      "pack_max": 3,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    },
+    {
+      "entity_type": "fossil:ichthyosaurus",
+      "weight": 12,
+      "pack_min": 1,
+      "pack_max": 1,
+      "rarity_modifiers": {
+        "base_rarity": 0.25
+      }
+    },
+    {
+      "entity_type": "fossil:pteranodon",
+      "weight": 4,
+      "pack_min": 1,
+      "pack_max": 3,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    }
+  ]
+}

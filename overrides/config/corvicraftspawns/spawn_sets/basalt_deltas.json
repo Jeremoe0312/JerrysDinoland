@@ -1,0 +1,32 @@
+{
+  "replace_existing": true,
+  "spawns": [
+    {
+      "entity_type": "minecraft:strider",
+      "weight": 60,
+      "pack_min": 1,
+      "pack_max": 2,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    },
+    {
+      "entity_type": "minecraft:ghast",
+      "weight": 40,
+      "pack_min": 1,
+      "pack_max": 1,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    },
+    {
+      "entity_type": "minecraft:magma_cube",
+      "weight": 100,
+      "pack_min": 2,
+      "pack_max": 5,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    }
+  ]
+}

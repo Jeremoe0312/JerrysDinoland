@@ -1,0 +1,50 @@
+{
+  "replace_existing": false,
+  "spawns": [
+    {
+      "entity_type": "fossil:parasaurolophus",
+      "weight": 12,
+      "pack_min": 1,
+      "pack_max": 3,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    },
+    {
+      "entity_type": "fossil:phorusrhacos",
+      "weight": 4,
+      "pack_min": 1,
+      "pack_max": 2,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    },
+    {
+      "entity_type": "fossil:quagga",
+      "weight": 4,
+      "pack_min": 1,
+      "pack_max": 3,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    },
+    {
+      "entity_type": "fossil:smilodon",
+      "weight": 2,
+      "pack_min": 1,
+      "pack_max": 2,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    },
+    {
+      "entity_type": "fossil:titanis",
+      "weight": 4,
+      "pack_min": 1,
+      "pack_max": 3,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    }
+  ]
+}

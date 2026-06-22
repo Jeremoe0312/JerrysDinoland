@@ -1,0 +1,331 @@
+[
+  {
+    "biomes": [
+      "biomesoplenty:tundra"
+    ],
+    "spawn_set": "tundra"
+  },
+  {
+    "biomes": [
+      "minecraft:taiga",
+      "biomesoplenty:coniferous_forest"
+    ],
+    "spawn_set": "taiga"
+  },
+  {
+    "biomes": [
+      "minecraft:deep_lukewarm_ocean"
+    ],
+    "spawn_set": "deep_cold_ocean"
+  },
+  {
+    "biomes": [
+      "minecraft:frozen_peaks",
+      "minecraft:jagged_peaks",
+      "minecraft:snowy_slopes"
+    ],
+    "spawn_set": "snowy_mountain"
+  },
+  {
+    "biomes": [
+      "minecraft:savanna",
+      "minecraft:savanna_plateau",
+      "minecraft:windswept_savanna"
+    ],
+    "spawn_set": "savanna"
+  },
+  {
+    "biomes": [
+      "minecraft:deep_ocean"
+    ],
+    "spawn_set": "deep_ocean"
+  },
+  {
+    "biomes": [
+      "minecraft:cold_ocean"
+    ],
+    "spawn_set": "cold_ocean"
+  },
+  {
+    "biomes": [
+      "minecraft:deep_lukewarm_ocean"
+    ],
+    "spawn_set": "deep_warm_ocean"
+  },
+  {
+    "biomes": [
+      "biomesoplenty:lavender_field"
+    ],
+    "spawn_set": "floral_fields"
+  },
+  {
+    "biomes": [
+      "biomesoplenty:seasonal_forest"
+    ],
+    "spawn_set": "dense_seasonal"
+  },
+  {
+    "biomes": [
+      "minecraft:beach",
+      "biomesoplenty:dune_beach"
+    ],
+    "spawn_set": "beach"
+  },
+  {
+    "biomes": [
+      "biomesoplenty:dryland"
+    ],
+    "spawn_set": "sparse_semi_arid"
+  },
+  {
+    "biomes": [
+      "minecraft:jungle",
+      "biomesoplenty:rainforest"
+    ],
+    "spawn_set": "tropical"
+  },
+  {
+    "biomes": [
+      "minecraft:ocean"
+    ],
+    "spawn_set": "ocean"
+  },
+  {
+    "biomes": [
+      "minecraft:stony_shore"
+    ],
+    "spawn_set": "rocky_beach"
+  },
+  {
+    "biomes": [
+      "minecraft:swamp",
+      "biomesoplenty:bayou",
+      "biomesoplenty:wetland"
+    ],
+    "spawn_set": "swamp"
+  },
+  {
+    "biomes": [
+      "minecraft:plains",
+      "minecraft:sunflower_plains",
+      "biomesoplenty:clover_patch",
+      "biomesoplenty:grassland",
+      "biomesoplenty:pasture"
+    ],
+    "spawn_set": "plains"
+  },
+  {
+    "biomes": [
+      "minecraft:desert"
+    ],
+    "spawn_set": "desert"
+  },
+  {
+    "biomes": [],
+    "spawn_set": "waterlogged_swamp"
+  },
+  {
+    "biomes": [
+      "minecraft:savanna",
+      "biomesoplenty:lush_savanna"
+    ],
+    "spawn_set": "sparse_savanna"
+  },
+  {
+    "biomes": [
+      "minecraft:lukewarm_ocean",
+      "minecraft:warm_ocean"
+    ],
+    "spawn_set": "warm_ocean"
+  },
+  {
+    "biomes": [
+      "biomesoplenty:cherry_blossom_grove"
+    ],
+    "spawn_set": "cherry_forest"
+  },
+  {
+    "biomes": [],
+    "spawn_set": "dense_savanna"
+  },
+  {
+    "biomes": [
+      "minecraft:old_growth_pine_taiga",
+      "minecraft:old_growth_spruce_taiga"
+    ],
+    "spawn_set": "mega_taiga"
+  },
+  {
+    "biomes": [
+      "biomesoplenty:pumpkin_patch",
+      "biomesoplenty:seasonal_orchard"
+    ],
+    "spawn_set": "seasonal"
+  },
+  {
+    "biomes": [
+      "biomesoplenty:orchard",
+      "biomesoplenty:origin_valley",
+      "biomesoplenty:mediterranean_forest"
+    ],
+    "spawn_set": "sparse_forest"
+  },
+  {
+    "biomes": [
+      "minecraft:forest",
+      "minecraft:flower_forest",
+      "biomesoplenty:lavender_forest",
+      "biomesoplenty:old_growth_woodland",
+      "biomesoplenty:woodland"
+    ],
+    "spawn_set": "forest"
+  },
+  {
+    "biomes": [
+      "minecraft:river"
+    ],
+    "spawn_set": "river"
+  },
+  {
+    "biomes": [
+      "minecraft:deep_frozen_ocean"
+    ],
+    "spawn_set": "deep_frozen_ocean"
+  },
+  {
+    "biomes": [
+      "biomesoplenty:maple_woods"
+    ],
+    "spawn_set": "autumnal_forest"
+  },
+  {
+    "biomes": [
+      "minecraft:badlands",
+      "minecraft:eroded_badlands"
+    ],
+    "spawn_set": "badlands"
+  },
+  {
+    "biomes": [
+      "minecraft:grove",
+      "minecraft:snowy_taiga",
+      "biomesoplenty:auroral_garden",
+      "biomesoplenty:snowy_coniferous_forest",
+      "biomesoplenty:snowy_maple_woods"
+    ],
+    "spawn_set": "snowy_taiga"
+  },
+  {
+    "biomes": [],
+    "spawn_set": "red_desert"
+  },
+  {
+    "biomes": [
+      "minecraft:bamboo_jungle",
+      "biomesoplenty:bamboo_grove"
+    ],
+    "spawn_set": "dense_tropical"
+  },
+  {
+    "biomes": [
+      "minecraft:sparse_jungle",
+      "biomesoplenty:fungal_jungle",
+      "biomesoplenty:jade_cliffs",
+      "biomesoplenty:rocky_rainforest",
+      "biomesoplenty:tropics"
+    ],
+    "spawn_set": "sparse_tropical"
+  },
+  {
+    "biomes": [
+      "minecraft:snowy_plains",
+      "minecraft:ice_spikes",
+      "biomesoplenty:muskeg",
+      "biomesoplenty:snowy_fir_clearing"
+    ],
+    "spawn_set": "frozen"
+  },
+  {
+    "biomes": [
+      "minecraft:windswept_forest",
+      "biomesoplenty:fir_clearing",
+      "biomesoplenty:forested_field"
+    ],
+    "spawn_set": "sparse_taiga"
+  },
+  {
+    "biomes": [
+      "minecraft:meadow",
+      "minecraft:windswept_hills",
+      "biomesoplenty:field",
+      "biomesoplenty:highland",
+      "biomesoplenty:highland_moor"
+    ],
+    "spawn_set": "highlands"
+  },
+  {
+    "biomes": [
+      "minecraft:frozen_ocean",
+      "minecraft:snowy_beach"
+    ],
+    "spawn_set": "frozen_ocean"
+  },
+  {
+    "biomes": [
+      "minecraft:birch_forest",
+      "minecraft:old_growth_birch_forest"
+    ],
+    "spawn_set": "birch_forest"
+  },
+  {
+    "biomes": [
+      "minecraft:stony_peaks",
+      "minecraft:windswept_gravelly_hills",
+      "biomesoplenty:crag"
+    ],
+    "spawn_set": "mountain"
+  },
+  {
+    "biomes": [
+      "biomesoplenty:redwood_forest"
+    ],
+    "spawn_set": "redwood"
+  },
+  {
+    "biomes": [
+      "minecraft:dark_forest",
+      "biomesoplenty:ominous_woods"
+    ],
+    "spawn_set": "dark_forest"
+  },
+  {
+    "biomes": [
+      "biomesoplenty:prairie",
+      "biomesoplenty:rocky_shrubland",
+      "biomesoplenty:scrubland",
+      "biomesoplenty:shrubland",
+      "biomesoplenty:wooded_shrubland"
+    ],
+    "spawn_set": "prairie"
+  },
+  {
+    "biomes": [
+      "biomesoplenty:bog",
+      "biomesoplenty:floodplain",
+      "biomesoplenty:marsh"
+    ],
+    "spawn_set": "marsh"
+  },
+  {
+    "biomes": [
+      "minecraft:wooded_badlands"
+    ],
+    "spawn_set": "wooded_badlands"
+  },
+  {
+    "biomes": [
+      "biomesoplenty:lush_desert"
+    ],
+    "spawn_set": "dense_semi_arid"
+  }
+]

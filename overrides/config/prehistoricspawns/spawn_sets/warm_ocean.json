@@ -1,0 +1,41 @@
+{
+  "replace_existing": false,
+  "spawns": [
+    {
+      "entity_type": "fossil:aquilolamna",
+      "weight": 8,
+      "pack_min": 1,
+      "pack_max": 2,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    },
+    {
+      "entity_type": "fossil:ichthyosaurus",
+      "weight": 8,
+      "pack_min": 1,
+      "pack_max": 4,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    },
+    {
+      "entity_type": "fossil:megalodon",
+      "weight": 1,
+      "pack_min": 1,
+      "pack_max": 1,
+      "rarity_modifiers": {
+        "base_rarity": 0.5
+      }
+    },
+    {
+      "entity_type": "fossil:mosasaurus",
+      "weight": 1,
+      "pack_min": 1,
+      "pack_max": 1,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    }
+  ]
+}

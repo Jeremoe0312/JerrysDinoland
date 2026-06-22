@@ -1,0 +1,86 @@
+{
+  "replace_existing": false,
+  "spawns": [
+    {
+      "entity_type": "fossil:arthropleura",
+      "weight": 20,
+      "pack_min": 1,
+      "pack_max": 4,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    },
+    {
+      "entity_type": "fossil:compsognathus",
+      "weight": 8,
+      "pack_min": 2,
+      "pack_max": 5,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    },
+    {
+      "entity_type": "fossil:deinonychus",
+      "weight": 6,
+      "pack_min": 2,
+      "pack_max": 5,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    },
+    {
+      "entity_type": "fossil:dodo",
+      "weight": 20,
+      "pack_min": 2,
+      "pack_max": 4,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    },
+    {
+      "entity_type": "fossil:edaphosaurus",
+      "weight": 4,
+      "pack_min": 1,
+      "pack_max": 3,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    },
+    {
+      "entity_type": "fossil:pachycephalosaurus",
+      "weight": 8,
+      "pack_min": 1,
+      "pack_max": 1,
+      "rarity_modifiers": {
+        "base_rarity": 0.5
+      }
+    },
+    {
+      "entity_type": "fossil:psittacosaurus",
+      "weight": 8,
+      "pack_min": 1,
+      "pack_max": 3,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    },
+    {
+      "entity_type": "fossil:meganeura",
+      "weight": 16,
+      "pack_min": 2,
+      "pack_max": 4,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    },
+    {
+      "entity_type": "fossil:therizinosaurus",
+      "weight": 4,
+      "pack_min": 1,
+      "pack_max": 2,
+      "rarity_modifiers": {
+        "base_rarity": 1.0
+      }
+    }
+  ]
+}
