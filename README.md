@@ -10,4 +10,4 @@
 4. Check the box for "I understand that installing all files is at my own risk." and hit the "All Files" button
 <img width="528" height="488" alt="image" src="https://github.com/user-attachments/assets/456cc9a4-78b1-4737-8c13-df6264778e65" />
 
-5. Wait for patching and instaling to be complete, then hit "Play". Have fun!
+5. Wait for patching and installing to be complete, then hit "Play". Have fun!
