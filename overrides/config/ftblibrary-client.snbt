@@ -25,7 +25,7 @@
 			}
 			"ftblibrary:config": {
 				enabled: true
-				x: 2
+				x: 1
 				y: 1
 			}
 			"ftblibrary:toggle/day": {
