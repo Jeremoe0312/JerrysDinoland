@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "supplementaries:item/cannon_boat/shineals_prehistoric_expansion/cannon_boat_ginkgo"
+  }
+}

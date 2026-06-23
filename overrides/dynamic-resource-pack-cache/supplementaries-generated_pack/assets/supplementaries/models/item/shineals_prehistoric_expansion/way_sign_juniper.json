@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "supplementaries:item/way_signs/shineals_prehistoric_expansion/way_sign_juniper"
+  }
+}

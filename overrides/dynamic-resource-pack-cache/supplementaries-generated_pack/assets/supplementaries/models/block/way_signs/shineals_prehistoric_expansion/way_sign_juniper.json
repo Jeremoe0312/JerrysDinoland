@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "supplementaries:block/way_signs/template",
+	"textures": {
+		"particle": "supplementaries:block/way_signs/shineals_prehistoric_expansion/way_sign_juniper",
+		"sign": "supplementaries:block/way_signs/shineals_prehistoric_expansion/way_sign_juniper"
+	}
+}
